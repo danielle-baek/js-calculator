@@ -1,0 +1,43 @@
+body {
+    padding: 50px; 
+  }
+  
+  .calculator {
+    background: lightgreen;
+    text-align: center;
+    width: 400px;
+    height: 520px;
+    padding: 10px;
+  }
+  
+  .calculator button {
+    height: 70px;
+    font-size: 22px;
+    width: 100%;
+    background: lightgreen;
+  }
+  
+  .calculator .longer{
+    height: 150px;
+  }
+  
+  .calculator .operator{
+    background: skyblue;
+  }
+  
+  #display {
+    background: black;
+    height: 120px;
+    margin-bottom:10px;
+    font-size: 30px;
+    color: white;
+  }
+  
+  #equals {
+    width: 192px;
+    background: white;
+  }
+  
+  #clear {
+     background: pink;
+  }
